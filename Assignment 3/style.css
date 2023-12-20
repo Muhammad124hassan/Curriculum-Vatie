@@ -1,0 +1,158 @@
+
+body{
+   /* text-align: center;
+    justify-content: center;
+     align-items: center; */
+     border: 2px solid black;
+}
+#main{
+    display: flex;
+}
+.class_1, img{
+    width: 170px;
+    height: 170px;
+    border-radius: 84px;
+}
+.class_1{
+    padding-top: 30px;
+}
+.boxes{
+    display: flex;
+    gap: 30px;
+    padding-left: 310px;
+}
+.box-box-1{
+    background-color: orange;
+    border: 3px solid orange;
+    color: white;
+    border-radius: 50px;
+}
+.box-box-2{
+    background-color: orange;
+    border: 3px solid orange;
+    color: white;
+    border-radius: 50px;
+}
+.box-box-3{
+    background-color: orange;
+    border: 3px solid orange;
+    color: white;
+    border-radius: 60px;
+}
+.box-box-4{
+    background-color: grey;
+    border: 3px solid grey;
+    color: white;
+    border-radius: 60px;
+}
+.box-box-5{
+    background-color: grey;
+    border: 3px solid grey;
+    color: white;
+    border-radius: 60px;
+}
+.box-box-6{
+    background-color: grey;
+    border: 3px solid grey;
+    color: white;
+    border-radius: 60px;
+}
+.box-box-7{
+    background-color: grey;
+    border: 3px solid grey;
+    color: white;
+    border-radius: 60px;
+}
+.box-box-8{
+    background-color: grey;
+    border: 3px solid grey;
+    color: white;
+    border-radius: 60px;
+}
+.classs{
+    padding-left: 5px;
+}
+.Objective_Class{
+    padding-left: 100px;
+}
+.box-box-9{
+    background-color: grey;
+    border: 3px solid grey;
+    color: white;
+    border-radius: 15px;
+}
+.box-box-10{
+    background-color: grey;
+    border: 3px solid grey;
+    color: white;
+    border-radius: 15px;
+}
+.box-box-11{
+    background-color: grey;
+    border: 3px solid grey;
+    color: white;
+    border-radius: 15px;
+
+}
+.Skills_Class{
+    padding-left: 5px;
+}
+#main_2{
+    display: flex;
+}
+.box-box-12{
+    background-color: orange;
+    border: 3px solid orange;
+    color: white;
+    border-radius: 15px;
+    
+}
+.box-box-13{
+    background-color: grey;
+    border: 3px solid grey;
+    color: white;
+    border-radius: 15px;
+}
+.Experience_Class{
+    padding-left: 280px;
+}
+
+#main_3{
+    display: flex;
+}
+.Languages_Class{
+    padding-left: 5px;
+}
+.Education_class{
+    padding-left: 250px;
+}
+.box-box-14{
+    background-color: grey;
+    border: 3px solid grey;
+    color: white;
+    border-radius: 15px;
+}
+.box-box-15{
+    background-color: grey;
+    border: 3px solid grey;
+    color: white;
+    border-radius: 15px;
+}
+.box-box-16{
+    background-color: grey;
+    border: 3px solid grey;
+    color: white;
+    border-radius: 15px;
+}
+.box-box-17{
+    background-color: grey;
+    border: 3px solid grey;
+    color: white;
+    border-radius: 15px;
+}
+.box-box-18{
+    background-color: grey;
+    border: 3px solid grey;
+    color: white;
+    border-radius: 15px;
+}
